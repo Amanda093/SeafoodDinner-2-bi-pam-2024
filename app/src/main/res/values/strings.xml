@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SeafoodDinner</string>
+    <string name="menu">Cárdapio\n</string>
+    <string name="foodname1">Camarão com manteiga de alho</string>
+    <string name="foodprice1">R$ 34,99</string>
+    <string name="foodname2">Aneis de lula com coco</string>
+    <string name="foodprice2">R$ 46,99</string>
+    <string name="foodname3">Macarrão com frutos do mar</string>
+    <string name="foodprice3">R$ 24,99</string>
+    <string name="foodname4">Carangueijo cozido</string>
+    <string name="foodprice4">R$ 29,99</string>
+    <string name="foodname5">Hot roll</string>
+    <string name="foodprice5">R$ 19,99</string>
+</resources>
