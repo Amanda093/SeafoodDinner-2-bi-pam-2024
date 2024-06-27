@@ -65,7 +65,6 @@ fun Tela1(navController: NavController) {
     }
 }
 
-
 @Preview
 @Composable
 fun DinnerAppPreview() {
