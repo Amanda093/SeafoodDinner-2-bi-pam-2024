@@ -27,6 +27,7 @@ import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.TextStyle
+import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.LineBreak
 import androidx.compose.ui.text.style.TextAlign
@@ -148,6 +149,9 @@ fun FoodInfo() {
             Row {
                 Text(
                     text = stringResource(R.string.foodtext1),
+                    style = TextStyle(
+                        fontStyle = FontStyle()
+                    )
                 )
             }
         }
